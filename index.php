@@ -7,6 +7,4 @@
         echo "보낸 지역 : ".$message->location_name."<br>";
         echo "메시지 내용 : ".$message->msg."<br><br>";
     }
-        echo "Warning : ".$xml->MESSAGE."<br>CODE : ".$xml->CODE;
-
 ?>
