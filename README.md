@@ -9,7 +9,7 @@ $path = "http://apis.data.go.kr/1741000/DisasterMsg2/getDisasterMsgList?ServiceK
 ```
 
 ## 예제
-https://esoftkorea.co.kr/isaster-text-broadcasting
+https://esoftkorea.co.kr/disaster-text-broadcasting
 
 ## 주의사항
 Openapi 특성상 사용자수가 많고, 내용물이 많은 API는 로딩이 오래걸립니다.
